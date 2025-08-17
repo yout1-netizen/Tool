@@ -1,0 +1,8 @@
+html,body,#__next{height:100%;}
+body{font-family:Inter,Arial,Helvetica,sans-serif;margin:0;background:#f8fafc;color:#0f172a}
+.container{max-width:900px;margin:24px auto;padding:16px}
+.card{background:#fff;border-radius:12px;padding:16px;box-shadow:0 6px 18px rgba(15,23,42,0.06);}
+.button{background:#0f172a;color:#fff;border:none;padding:10px 16px;border-radius:8px;cursor:pointer}
+.input{padding:10px;border-radius:8px;border:1px solid #e6e9ef;width:100%}
+.small-muted{color:#6b7280;font-size:14px}
+.ad-placeholder{height:90px;background:#eef2ff;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#374151}
